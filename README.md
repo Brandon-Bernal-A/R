@@ -84,3 +84,24 @@ Aquí pondré un resumen de cómo usar el lenguaje de R.
 - `summarize()`
 - `group_by()`
 - Introducción a `ggplot2`
+
+## 4. ggplot2
+
+### [4.1 Gráficos](ggplot2/Visualización.ipynb)
+
+- Librería `ggplot2`
+- Estructura básica de un gráfico
+- `aes()` para asignación estética
+- Complementos útiles: `+ ... +`
+- Argumentos `geom_*()`
+- Gráfico de dispersión: `geom_point()`
+- Gráfico de líneas: `geom_line()`
+- Gráfico de barras
+- Histograma
+- Boxplot
+- Títulos y etiquetas
+- Función `labs()`
+- Líneas de tendencia: `geom_smooth()`
+- Guardar gráficos: `ggsave()`
+- Líneas verticales y horizontales: `geom_vline()` y `geom_hline()`
+- Límites: `xlim()`, `ylim()` y `scale_x/y_continuous()`
