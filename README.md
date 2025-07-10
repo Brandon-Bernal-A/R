@@ -66,7 +66,7 @@ Aquí pondré un resumen de cómo usar el lenguaje de R.
 - Uso de `sapply()`
 - Uso de `vapply()`
 
-## 3. [Tidyverse](Tidyverse)
+## [3. Tidyverse](Tidyverse)
 
 ### [3.1 dplyr básico](Tidyverse/dplyr_basico.ipynb)
 
