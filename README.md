@@ -40,3 +40,27 @@ Aquí pondré un resumen de cómo usar el lenguaje de R.
 - Crear listas con `list()`
 - Seleccionar datos de listas
 
+## 2. Intermedio
+
+### [2.1 Condicionales y Funciones](Intermedio/Condicionales_y_Funciones.ipynb)
+
+- Condicionales: `&`, `|`, `!`
+- Estructuras `if` y `else`
+- Estructura de funciones en R
+- Uso de `help()` y `?`
+
+### [2.2 Ciclos y Fechas](Intermedio/Ciclos_y_Fechas.ipynb)
+
+- Ciclo `while`
+- Ciclo `for`
+- Funciones de fecha: `now()` y `today()`
+- Formato y manejo de fechas
+
+### [2.3 Coincidencias y vapply](Intermedio/Coincidencias_y_sapply.ipynb)
+
+- Coincidencias con `grepl()` y `grep()`
+- Selección de patrones: `^`, `\\.`, `$`
+- Reemplazo con `sub()` y `gsub()`
+- Uso de `lapply()`
+- Uso de `sapply()`
+- Uso de `vapply()`
