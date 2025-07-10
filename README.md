@@ -40,7 +40,7 @@ Aquí pondré un resumen de cómo usar el lenguaje de R.
 - Crear listas con `list()`
 - Seleccionar datos de listas
 
-## 2. Intermedio
+## (2. Intermedio)[Intermedio]
 
 ### [2.1 Condicionales y Funciones](Intermedio/Condicionales_y_Funciones.ipynb)
 
