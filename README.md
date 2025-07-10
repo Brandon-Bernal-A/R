@@ -85,7 +85,7 @@ Aquí pondré un resumen de cómo usar el lenguaje de R.
 - `group_by()`
 - Introducción a `ggplot2`
 
-## 4. ggplot2
+## [4. ggplot2](ggplot2)
 
 ### [4.1 Gráficos](ggplot2/Visualización.ipynb)
 
