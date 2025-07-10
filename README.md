@@ -5,7 +5,7 @@ Aquí pondré un resumen de cómo usar el lenguaje de R.
 ## Índice
 
 1. [Introducción](#introducción)  
-   1.1 [Primeros pasos](#primeros-pasos)  
+   1.1 [Primeros pasos](#primeros_pasos)  
    &emsp;1.1.1 [Comentarios](#comentarios)  
    &emsp;1.1.2 [Operaciones](#operaciones)  
    &emsp;1.1.3 [Tipos de Datos](#tipos-de-datos)  
