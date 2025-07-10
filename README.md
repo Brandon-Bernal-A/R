@@ -30,3 +30,13 @@ Aquí pondré un resumen de cómo usar el lenguaje de R.
 - Variables categóricas (Factores) con `factor()`
 - Variables categóricas nominales y ordinales
 - Función `summary()`
+
+### [1.3 Data Frame y Listas](introduccion/Data_Frame_y_Listas.ipynb)
+
+- Crear un `data.frame()`
+- `head()` y `tail()`
+- Seleccionar elementos de un Data Frame (`$`, `[]`)
+- `subset()`
+- Crear listas con `list()`
+- Seleccionar datos de listas
+
