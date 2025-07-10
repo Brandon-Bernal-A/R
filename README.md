@@ -1,21 +1,23 @@
 # R
-Aquí pondre un resumen de como usar el lenguaje de R
 
-**Indice**
+Aquí pondré un resumen de cómo usar el lenguaje de R.
 
-1. Introducción 
-1.1 primeros pasos
+## Índice
 
-Comentarios 
-Operaciones 
-Tipos de Datos (numeric, booleanos)
-Variables 
-Función "class()"
-Crear vectores "c()"
-Nombrar elementos de vectores "names()"
-Suma de vectores 
-Función "sum()"
-Comparar vectores (>, <, ...)
-Seleccionar elementos de un vector [i]
+1. [Introducción](#introducción)  
+   1.1 [Primeros pasos](#primeros-pasos)  
+   &emsp;1.1.1 [Comentarios](#comentarios)  
+   &emsp;1.1.2 [Operaciones](#operaciones)  
+   &emsp;1.1.3 [Tipos de Datos](#tipos-de-datos)  
+   &emsp;&emsp;- `numeric`, `booleanos`  
+   &emsp;&emsp;- Variables  
+   &emsp;&emsp;- Función `class()`  
+   &emsp;&emsp;- Crear vectores con `c()`  
+   &emsp;&emsp;- Nombrar elementos de vectores con `names()`  
+   &emsp;&emsp;- Suma de vectores  
+   &emsp;&emsp;- Función `sum()`  
+   &emsp;&emsp;- Comparar vectores (`>`, `<`, `==`, etc.)  
+   &emsp;&emsp;- Seleccionar elementos de un vector con `[i]`  
 
-1.2 matrices
+2. [Matrices](#matrices)
+
