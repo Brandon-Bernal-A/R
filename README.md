@@ -2,22 +2,31 @@
 
 Aquí pondré un resumen de cómo usar el lenguaje de R.
 
-## Índice
+# Índice
 
-1. [Introducción]  
-   1.1 [Primeros pasos](#Primeros_Pasos)  
-   &emsp;1.1.1 [pasos](#Primeros_Pasos.ipynb)  
-   &emsp;1.1.2 [Operaciones](#operaciones)  
-   &emsp;1.1.3 [Tipos de Datos](#tipos-de-datos)  
-   &emsp;&emsp;- `numeric`, `booleanos`  
-   &emsp;&emsp;- Variables  
-   &emsp;&emsp;- Función `class()`  
-   &emsp;&emsp;- Crear vectores con `c()`  
-   &emsp;&emsp;- Nombrar elementos de vectores con `names()`  
-   &emsp;&emsp;- Suma de vectores  
-   &emsp;&emsp;- Función `sum()`  
-   &emsp;&emsp;- Comparar vectores (`>`, `<`, `==`, etc.)  
-   &emsp;&emsp;- Seleccionar elementos de un vector con `[i]`  
+## 1. Introducción
 
-2. [Matrices](#matrices)
+### [1.1 Primeros pasos](introduccion/Primeros_Pasos.ipynb)
 
+- Comentarios
+- Operaciones
+- Tipos de datos (`numeric`, `booleanos`)
+- Variables
+- Función `class()`
+- Crear vectores con `c()`
+- Nombrar elementos de vectores con `names()`
+- Suma de vectores
+- Función `sum()`
+- Comparar vectores (`>`, `<`, `==`, etc.)
+- Seleccionar elementos de un vector con `[i]`
+
+### [1.2 Matrices y Factores](introduccion/Matrices_y_Factores.ipynb)
+
+- Crear una matriz con `matrix()`
+- Nombrar filas y columnas con `colnames()` y `rownames()`
+- Sumar filas y columnas con `rowSums()` y `colSums()`
+- Combinar matrices con `cbind()` y `rbind()`
+- Seleccionar elementos de una matriz
+- Variables categóricas (Factores) con `factor()`
+- Variables categóricas nominales y ordinales
+- Función `summary()`
