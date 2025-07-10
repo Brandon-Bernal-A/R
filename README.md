@@ -4,9 +4,9 @@ Aquí pondré un resumen de cómo usar el lenguaje de R.
 
 # Índice
 
-## 1. Introducción
+## 1. Introducción(Introduccion)
 
-### [1.1 Primeros pasos](introduccion/Primeros_Pasos.ipynb)
+### [1.1 Primeros pasos](Introduccion/Primeros_Pasos.ipynb)
 
 - Comentarios
 - Operaciones
@@ -20,7 +20,7 @@ Aquí pondré un resumen de cómo usar el lenguaje de R.
 - Comparar vectores (`>`, `<`, `==`, etc.)
 - Seleccionar elementos de un vector con `[i]`
 
-### [1.2 Matrices y Factores](introduccion/Matrices_y_Factores.ipynb)
+### [1.2 Matrices y Factores](Introduccion/Matrices_y_Factores.ipynb)
 
 - Crear una matriz con `matrix()`
 - Nombrar filas y columnas con `colnames()` y `rownames()`
