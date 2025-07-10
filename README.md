@@ -79,7 +79,7 @@ Aquí pondré un resumen de cómo usar el lenguaje de R.
 - `arrange()`
 - `mutate()`
 
-### [3.2 Summarize y Group by](Tidyverse/Summarize%20y%20Group%20by.ipynb)
+### [3.2 Summarize y Group by](Tidyverse/Summarize_y_Group_by.ipynb)
 
 - `summarize()`
 - `group_by()`
