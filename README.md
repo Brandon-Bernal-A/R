@@ -96,9 +96,9 @@ Aquí pondré un resumen de cómo usar el lenguaje de R.
 - `replace_na()`
 - `bind_rows()`
 
-## [4. ggplot2](ggplot2)
+## [5. ggplot2](ggplot2)
 
-### [4.1 Gráficos](ggplot2/Visualización.ipynb)
+### [5.1 Gráficos](ggplot2/Visualización.ipynb)
 
 - Librería `ggplot2`
 - Estructura básica de un gráfico
