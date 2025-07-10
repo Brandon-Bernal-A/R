@@ -31,7 +31,7 @@ Aquí pondré un resumen de cómo usar el lenguaje de R.
 - Variables categóricas nominales y ordinales
 - Función `summary()`
 
-### [1.3 Data Frame y Listas](introduccion/Data_Frame_y_Listas.ipynb)
+### [1.3 Data Frame y Listas](Introduccion/Data_Frame_y_Listas.ipynb)
 
 - Crear un `data.frame()`
 - `head()` y `tail()`
