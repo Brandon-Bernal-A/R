@@ -48,6 +48,7 @@ Aquí pondré un resumen de cómo usar el lenguaje de R.
 - Estructuras `if` y `else`
 - Estructura de funciones en R
 - Uso de `help()` y `?`
+- Intalar paquetes y `library()`
 
 ### [2.2 Ciclos y Fechas](Intermedio/Ciclos_y_Fechas.ipynb)
 
