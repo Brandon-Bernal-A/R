@@ -85,6 +85,17 @@ Aquí pondré un resumen de cómo usar el lenguaje de R.
 - `group_by()`
 - Introducción a `ggplot2`
 
+### [3.3 Unir tablas con dplyr](Tidyverse/Unir_tablas_con_dplyr.ipynb)
+
+- `inner_join()`
+- `left_join()`
+- `right_join()`
+- `full_join()`
+- `anti_join()`
+- `semi_join()`
+- `replace_na()`
+- `bind_rows()`
+
 ## [4. ggplot2](ggplot2)
 
 ### [4.1 Gráficos](ggplot2/Visualización.ipynb)
