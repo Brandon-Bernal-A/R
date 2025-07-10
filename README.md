@@ -40,7 +40,7 @@ Aquí pondré un resumen de cómo usar el lenguaje de R.
 - Crear listas con `list()`
 - Seleccionar datos de listas
 
-## (2. Intermedio)[Intermedio]
+## [2. Intermedio](Intermedio)
 
 ### [2.1 Condicionales y Funciones](Intermedio/Condicionales_y_Funciones.ipynb)
 
@@ -65,3 +65,22 @@ Aquí pondré un resumen de cómo usar el lenguaje de R.
 - Uso de `lapply()`
 - Uso de `sapply()`
 - Uso de `vapply()`
+
+## 3. [Tidyverse](Tidyverse)
+
+### [3.1 dplyr básico](Tidyverse/dplyr_basico.ipynb)
+
+- `install.packages()`
+- `library()`
+- `gapminder()` dataset
+- `str()`
+- `filter()`
+- Pipes con `%>%`
+- `arrange()`
+- `mutate()`
+
+### [3.2 Summarize y Group by](Tidyverse/Summarize%20y%20Group%20by.ipynb)
+
+- `summarize()`
+- `group_by()`
+- Introducción a `ggplot2`
