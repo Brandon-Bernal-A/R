@@ -2,7 +2,7 @@
 
 Aquí pondré un resumen de cómo usar el lenguaje de R.
 
-# Índice
+# [Índice](https://github.com/Brandon-Bernal-A/R/blob/main/README.md#%C3%ADndice)
 
 ## [1. Introducción](Introduccion)
 
