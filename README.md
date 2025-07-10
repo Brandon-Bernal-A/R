@@ -1,4 +1,4 @@
-# R
+# Notas R
 
 Aquí pondré un resumen de cómo usar el lenguaje de R.
 
