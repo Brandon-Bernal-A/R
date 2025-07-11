@@ -114,6 +114,19 @@ Aquí pondré un resumen de cómo usar el lenguaje de R.
 - `levels()` y `droplevels()`
 - `table()`
 
+### [4.2 Modificar Cadenas](Manipulacion_Dplyr/Manipular_cadenas.ipynb)
+
+- `str_remove()`
+- `mean()`
+- `replace()`
+- `duplicated()` 
+- `distinct()`
+- `str_to_upper()`
+- `str_to_lower()`
+- `str_trim()`
+- `fct_collapse()`
+- Funciones `as.*()` (como `as.numeric()`, `as.character()`, etc.)
+- Funciones `is.*()` (como `is.numeric()`, `is.factor()`, etc.)
 
 ## [5. ggplot2](ggplot2)
 
