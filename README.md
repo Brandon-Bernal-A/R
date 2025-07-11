@@ -149,7 +149,7 @@ Aquí pondré un resumen de cómo usar el lenguaje de R.
 - Líneas verticales y horizontales: `geom_vline()` y `geom_hline()`
 - Límites: `xlim()`, `ylim()` y `scale_x/y_continuous()`
 
-## 6. Estadística
+## [6. Estadística](Estadistica)
 
 ### [6.1 Estadística Básica](Estadistica/Estadistica_Basica.ipynb)
 
