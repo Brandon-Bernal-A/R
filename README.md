@@ -96,9 +96,9 @@ Aquí pondré un resumen de cómo usar el lenguaje de R.
 - `replace_na()`
 - `bind_rows()`
 
-## [4. Manipulación con dplyr](Manipulacion_Dplyr)
+## [4. Manipulación con dplyr y string](Manipulacion_Dplyr)
 
-### [4.1 Funciones Esenciales](Manipulacion_Dplyr/Funciones_Dplyr.ipynb)
+### [4.1 Funciones Esenciales Dplyr](Manipulacion_Dplyr/Funciones_Dplyr.ipynb)
 
 - `glimpse()`
 - `select()`
