@@ -96,6 +96,25 @@ Aquí pondré un resumen de cómo usar el lenguaje de R.
 - `replace_na()`
 - `bind_rows()`
 
+## 4. [Manipulación con dplyr](Manipulacion_Dplyr)
+
+### [4.1 Funciones Esenciales](Manipulacion_Dplyr/Funciones_Dplyr.ipynb)
+
+- `glimpse()`
+- `select()`
+- `arrange()`
+- `filter()` y `%in%`
+- `mutate()`
+- `count()`
+- `summarize()` y `group_by()`
+- `slice()` y variantes
+- Seleccionar casos (`:`, `contains()`, eliminación, etc.)
+- `rename()`
+- `relocate()`
+- `levels()` y `droplevels()`
+- `table()`
+
+
 ## [5. ggplot2](ggplot2)
 
 ### [5.1 Gráficos](ggplot2/Visualización.ipynb)
