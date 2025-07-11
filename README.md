@@ -148,3 +148,25 @@ Aquí pondré un resumen de cómo usar el lenguaje de R.
 - Guardar gráficos: `ggsave()`
 - Líneas verticales y horizontales: `geom_vline()` y `geom_hline()`
 - Límites: `xlim()`, `ylim()` y `scale_x/y_continuous()`
+
+## 6. Estadística
+
+### [6.1 Estadística Básica](Estadistica/Estadistica_Basica.ipynb)
+
+- `mean()`
+- `median()`
+- `var()`
+- `sd()`
+- `quantile()`
+- `IQR()`
+- Identificación de valores atípicos
+- `boxplot`
+- Distribuciones de probabilidad:
+  - Poisson
+  - Exponencial
+  - Binomial
+  - Uniforme
+  - Normal
+- Muestreo
+- `cor()`
+- Regresión lineal
